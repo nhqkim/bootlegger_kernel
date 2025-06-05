@@ -5,8 +5,8 @@
 
 # Kernel
 KERNEL_NAME="Bootlegger"
-KERNEL_GIT="https://github.com/silvzr/bootlegger_kernel_archive.git"
-KERNEL_BRANCH="pos14"
+KERNEL_GIT="https://github.com/DerpFest-Devices/device_xiaomi_davinci.git"
+KERNEL_BRANCH="15.2"
 
 # KernelSU
 KERNELSU_REPO="tiann/KernelSU"
