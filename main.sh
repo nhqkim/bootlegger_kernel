@@ -6,11 +6,11 @@
 # Kernel
 KERNEL_NAME="Bootlegger"
 KERNEL_GIT="https://github.com/silvzr/bootlegger_kernel_archive.git"
-KERNEL_BRANCH=""
+KERNEL_BRANCH="pos14"
 
 # KernelSU
 KERNELSU_REPO="tiann/KernelSU"
-KSU_ENABLED="false"
+KSU_ENABLED="true"
 
 # Anykernel3
 ANYKERNEL3_GIT="https://github.com/silvzr/AnyKernel3.git"
