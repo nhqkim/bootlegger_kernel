@@ -5,7 +5,7 @@
 
 # Kernel
 KERNEL_NAME="Bootlegger"
-KERNEL_GIT="https://github.com/DerpFest-Devices/device_xiaomi_davinci.git"
+KERNEL_GIT="https://github.com/DerpFest-Devices/kernel_xiaomi_sm6150.git"
 KERNEL_BRANCH="15.2"
 
 # KernelSU
